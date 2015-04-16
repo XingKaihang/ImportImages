@@ -1,7 +1,7 @@
 # ImportImages
 Cloud Project(Face detection & import images part)
 
-* Environment : This project is under Ubuntu 14.04, and needs the support of OpenCV 2.11, OpenBR, hadoop 2.6.0 and HIPI
+* Environment : This project is under Ubuntu 14.04, and needs the support of java, OpenCV 2.11, OpenBR, hadoop 2.6.0 and HIPI
 
 * Aim : This project will first detect faces in a image, and then import all face images into a given HIB
 
