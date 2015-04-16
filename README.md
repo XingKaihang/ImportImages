@@ -9,3 +9,8 @@ Cloud Project(import images part)
 
 * How to deploy : put this directory under hipi root directory, and use the command on previous line.
 
+Some useful links to deploy environment: </br>
+http://www.samontab.com/web/2014/06/installing-opencv-2-4-9-in-ubuntu-14-04-lts/ </br>
+http://openbiometrics.org/doxygen/latest/linux_gcc.html </br>
+http://hipi.cs.virginia.edu/gettingstarted.html </br>
+
